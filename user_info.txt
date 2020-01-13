@@ -1,0 +1,3 @@
+{"my_username": "1710205", "my_password": "603101",
+"click_time_gap":0.5,
+"retry_time_gap":5}
