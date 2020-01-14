@@ -88,3 +88,7 @@ with open('lessons.txt','r') as file_obj:
     for no in file_obj:
         lessons.append(no.rstrip())
 
+print('你想要选的课是：')
+for i in lessons:
+    pass
+_=input('按回车键开始选课')
